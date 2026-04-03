@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pickup Tracker</string>
+    <string name="today_label">Today\'s screen pickups</string>
+    <string name="pickups_label">pickups</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="tracking_active">✓ Tracking Active</string>
+    <string name="widget_label">pickups today</string>
+    <string name="widget_hint">Add the widget to your home screen\nto see your count at a glance</string>
+    <string name="widget_description">Shows your daily screen pickup count</string>
+    <string name="channel_name">Pickup Tracker</string>
+    <string name="channel_description">Tracks screen unlocks in the background</string>
+    <string name="notification_text">Pickups today: %d</string>
+    <string name="message_zero">No pickups yet today 👋</string>
+    <string name="message_low">Looking good — nice and focused! 🌟</string>
+    <string name="message_medium">Getting there — try to put it down more 📵</string>
+    <string name="message_high">That\'s a lot of pickups today 😬</string>
+</resources>
